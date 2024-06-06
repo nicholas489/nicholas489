@@ -1,5 +1,5 @@
 # Hello I'm Nick! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-It's nice to meet you! I'm Nicholas Caro Lopez, and I'm 2nd year Computer Science student @ Toronto Metropolitan University working towards a future career in Software Engineering. I'm currently working as a Software Developer at my university. I enjoy solving complex problems and learning more about any technologies through my work experience and coding projects. 
+It's nice to meet you! I'm Nicholas Caro Lopez, and I'm 3nd year Computer Science student @ Toronto Metropolitan University working towards a future career in Software Engineering. I'm currently working as a Software Developer at my university. I enjoy solving complex problems and learning more about any technologies through my work experience and coding projects. 
 
 <!-- TODO: Add more social links or create a new section for Fun Facts
 ## 🌐 Socials:
