@@ -8,9 +8,10 @@ It's nice to meet you! I'm Nicholas Caro Lopez, and I'm 3rd year Computer Scienc
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
-# 🌐 Socials:
+# 🌐 Social Links:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nickcarolopez@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nicholas-caro-lopez/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://nickcarolopez.ca)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nicholas489&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
