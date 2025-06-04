@@ -1,24 +1,22 @@
 # Hello I'm Nick! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-It's nice to meet you! I'm Nicholas Caro Lopez, and I'm 3rd year Computer Science student @ Toronto Metropolitan University working towards a future career in Software Engineering. I'm currently working as a Software Developer at my university. I enjoy solving complex problems and learning more about any technologies through my work experience and coding projects. 
+It's nice to meet you! I'm Nicholas Caro Lopez, and I'm 3rd year Computer Science student @ Toronto Metropolitan University working towards a future career in Software Engineering. In the past I have worked as a Software Developer Intern @ Dayforce and as a Software Engineer @ Laboratory for Translational Medicine, TMU. I enjoy solving complex problems and learning more about any technologies through my work experience and coding projects. 
 
-<!-- TODO: Add more social links or create a new section for Fun Facts
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicholas-caro-lopez/) 
--->
-<!-- TODO: Replace the Java icon with a better icon -->
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+
+# 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nickcarolopez@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nicholas-caro-lopez/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nicholas489&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicholas489&theme=vue-dark&hide_border=false)<br/>
-
-<!-- TODO: Uncomment this in the future 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas489&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
--->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nicholas489&icon=3&color=0)](https://visitcount.itsvg.in)
