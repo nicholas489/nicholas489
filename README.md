@@ -14,12 +14,4 @@ It's nice to meet you! I'm Nicholas Caro Lopez, and I'm 3rd year Computer Scienc
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://nickcarolopez.ca)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nicholas489&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicholas489&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas489&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=nicholas489&icon=3&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
